@@ -21,7 +21,7 @@ This project is a simple web application developed using Python and Flask. It pe
 
 ## Deployment
 Deployment URL:
-(To be added)
+https://bcs601-4mw23cs096.onrender.com
 
 ## Annexure
 GitHub Repository Link:
